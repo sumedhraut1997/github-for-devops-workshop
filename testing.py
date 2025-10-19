@@ -1,0 +1,1 @@
+print ("Helllo dosto kya hall chall, kaisey hai sab log")
