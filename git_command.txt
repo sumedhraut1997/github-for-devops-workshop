@@ -1,4 +1,3 @@
-3 clear
    4 ls -l
    5 ls
    6 clear
